@@ -1,0 +1,8 @@
+pip:
+- gym
+- tensorflow-gpu
+- networkx
+conda:
+- ipython
+- numpy
+
